@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d49d6fd3-e154-4205-b59b-1982d3e261ea" /># Xournal++ Infinity Notes
-
 This plugin allows you to create (pseudo) infinity notes inside of Xournal++
 
 If you wish to change the size of your PDF files (to annotate on them), you can use [this](https://github.com/MiltonBalaOfficial/IncreaseAndDecreasePageDimensions) plugin. My plugin only works for taking notes yourself, and not annotating PDF files.
