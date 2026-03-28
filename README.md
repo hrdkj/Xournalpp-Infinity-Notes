@@ -1,4 +1,4 @@
-# Xournal++ Infinity Notes
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d49d6fd3-e154-4205-b59b-1982d3e261ea" /># Xournal++ Infinity Notes
 
 This plugin allows you to create (pseudo) infinity notes inside of Xournal++
 
@@ -68,10 +68,5 @@ For me personally I had to update the LUA_PATH environment variable, which you c
 -->
 
 ### Screenshots
-![Infinity all around zoomed](/screenshots/center-zoomed.png?raw=true "Infinity all around zoomed")
-![Infinity on the right and bottom zoomed](/screenshots/top-left-zoomed.png?raw=true "Infinity on the right and bottom zoomed")
-
-These 2 obviously don't show that the page is infinitive, so see the screenshots below:
-
-![Infinity all around](/screenshots/center.png?raw=true "Infinity all around")
-![Infinity on the right and bottom](/screenshots/top-left.png?raw=true "Infinity on the right and bottom")
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fd4083d-ea66-4502-99d9-113d0ca36a30" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43322e4f-527d-42b5-aad6-4eb544bb9f16" />
