@@ -17,7 +17,10 @@ For now, you must install the nightly version of Xournal++, as the latest offici
 4. Go to the [Icon Folder](#Icon-Folder) based on your operating system
 5. Copy the icons folder of this repo into that folder
 6. Open Xournal++
-7. On the top, select "Edit", then "Toolbars" and at the bottom "Customize", scroll down to the Infinity icon and Arrow icon icon and drag those to your toolbar
+7. On the top, select "Edit", then "Toolbars" and  the bottom "Customize", go to plugins section to find the Infinity icon, and Arrow icon and drag those to your toolbar
+8. For the Xournalpp settings in that dialog, set:
+   - Speed for Ctrl + Scroll → 15.0 %
+   - Speed for a Zoomstep → 20.0 %
 
 ##### Config Folder
 You can find the folder for your operating system [here](https://xournalpp.github.io/guide/file-locations/) or below:
@@ -38,13 +41,18 @@ Linux: `~/.local/share/icons/hicolor/scalable/actions/`
 
 ### Usage
 1. Open a (new) note
-2. Click the Infinity icon
+2. Click the Infinity icon to create an infinity canvas
 3. Hide the sidebar
-4. (If you're not using the nightly build of Xournal++) zoom into the desired zoom level
+4. Start writing!
 
-If you prefer to start writing at the top left of the canvas (such that you have infinity to the right/bottom only), press the arrow icon.
+You can also:
+- Click the **Arrow icon** (Scroll To Top Left) to start from the top-left corner
 
-See the [screenshots](#Screenshots) for examples
+### How It Works
+
+The plugin creates a large page (2500×2500 pt) and sets the zoom to 10× for comfortable writing. This gives you a canvas roughly **35 inches (0.9 meters)** in each direction — more than enough for sprawling notes.
+
+**Better pen sizes**: By using a 2500pt page at 10× zoom (instead of 10000pt at 2.5×), the standard Xournal++ pen sizes render at natural, usable thicknesses — 4× thicker on screen than before.
 
 <!--
 ### Dependencies
@@ -67,4 +75,3 @@ These 2 obviously don't show that the page is infinitive, so see the screenshots
 
 ![Infinity all around](/screenshots/center.png?raw=true "Infinity all around")
 ![Infinity on the right and bottom](/screenshots/top-left.png?raw=true "Infinity on the right and bottom")
-
